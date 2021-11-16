@@ -1,6 +1,5 @@
-David's build of dwm
+Ritchiel's build of dwm (forked from theniceboy)
 ============================
-[中文版](./README_cn.md)
 
 dwm is an extremely fast, small, and dynamic window manager for X.
 
